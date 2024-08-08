@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Lato-Black.ttf",
+      "sha1": "b9c952639741f5b7479e1ff6d1561a3df7e8f83a"
+    },
+    {
+      "path": "assets/fonts/Lato-Bold.ttf",
+      "sha1": "6b2c7b124cbf0aaeba48d57fb0fa19f2c6c69683"
+    },
+    {
+      "path": "assets/fonts/Lato-Light.ttf",
+      "sha1": "a405c8288a8a90881407f93b6ee02b29e26a8735"
+    },
+    {
+      "path": "assets/fonts/Lato-Medium.ttf",
+      "sha1": "c78e94b7cc0b782eef4f9f2be371c3cf9c3f6eaf"
+    },
+    {
+      "path": "assets/fonts/TopSecret.ttf",
+      "sha1": "be8d7c4fc742c019bc1e38eabc4d37d3dd4de885"
+    },
+    {
+      "path": "assets/fonts/Uni-Heavy.ttf",
+      "sha1": "9fc02c447bed9527c7a63cd59c129e2b4e4e11cd"
+    },
+    {
+      "path": "assets/fonts/Uni-Sans-Heavy.otf",
+      "sha1": "bb1fb8c789dce011495946d384a087015914140f"
+    },
+    {
+      "path": "assets/fonts/Uni-Sans-Light.otf",
+      "sha1": "ebbf6c51f86c8d8021bbc90fc316926928d1eaea"
+    }
+  ]
+}
